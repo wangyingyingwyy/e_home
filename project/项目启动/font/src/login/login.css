@@ -1,0 +1,75 @@
+.am-list-item .am-input-label{
+    font-size: 21px;
+  }
+  ul li{
+    list-style: none;
+  }
+  .u1 li{
+      float: left;
+  }
+  .u1 li img{
+    width: 50px;
+    height: 50px;
+  }
+  .login_top{
+    height: 25%;
+    width: 100%;
+    background:linear-gradient(to right,#FE8084, #FE8E90, #FE9695) ;
+  }
+  .regforget{
+    width:70%;
+    height:35px;
+    margin:0 auto;
+  }
+  .regforget button{
+    background: none;
+    border:none;
+  }
+  .regforget :first-child{
+    color: #FC3554;
+  }
+  .regforget :last-child{
+    color: #FC3554;
+    float: right;
+    margin-right: 5%;
+  }
+  .loginn{
+    width:100%;
+    height:50px;
+    margin-top: 10%;
+  }
+  .loginn button{
+    width:150px;
+    height:40px;
+    background: #FC3554;
+    border:none;
+    border-radius: 15px;
+    color:#fff;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-left: 24%;
+  }
+  /* 协议 */
+  .deal{
+    height: 15px;
+    width: 100%;
+    /* margin:5% auto 0 auto; */
+    margin-left: 16%;
+    margin-top: 2%;
+  }
+  /* 第三方登录 */
+  .login_third{
+    width: 70%;
+    margin:40% auto 0 auto;
+    text-align: center;
+  }
+  .login_third div i{
+    font-size:3em;
+    color:#807D7D;
+  }
+  .login_third div i:first-child{
+    float: left;
+  }
+  .login_third div i:last-child{
+    float: right;
+  }
